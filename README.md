@@ -2,8 +2,7 @@
 
 Update crack from requests friends
 
-![20201014_171639](https://user-images.githubusercontent.com/66865892/95977463-71667780-0e08-11eb-9b96-0f7ab7fa057a.jpg)
-
+![20201014_171639](https://ibb.co/JCpkwKX)
 
 Cara install
 
